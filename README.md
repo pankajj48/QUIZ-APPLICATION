@@ -18,7 +18,12 @@ A fully responsive and interactive JavaScript-based Quiz Application that allows
 
 ## 📸 Demo
 
-Live Link 👉 [Quiz App Live](https://pankajj48.github.io/QUIZ-APPLICATION)
+Live Link 👉 
+
+<img width="1913" height="891" alt="image" src="https://github.com/user-attachments/assets/3dc990b3-0fc1-45b0-8b97-41b20ba4a6ca" />
+
+
+[Quiz App Live](https://pankajj48.github.io/QUIZ-APPLICATION)
 
 ---
 
